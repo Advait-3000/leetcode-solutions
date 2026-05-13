@@ -17,4 +17,8 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Advait-3000/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Advait-3000/leetcode-solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->

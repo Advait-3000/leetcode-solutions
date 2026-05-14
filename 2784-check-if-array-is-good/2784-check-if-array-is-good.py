@@ -1,6 +1,7 @@
 class Solution:
     def isGood(self, nums: List[int]) -> bool:
-        og=[i for i in range(1,max(nums)+1)]
-        og.append(max(nums))
         nums.sort()
-        return nums==og
+        if len(nums)!=nums[-1]+1 or nums[-1]!=nums[-2]:return False
+        for i in range(len(nums)-1):
+            if nums[i]!=i+1:return False
+        return True

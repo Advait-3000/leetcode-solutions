@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Advait-3000/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Advait-3000/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1184-distance-between-bus-stops](https://github.com/Advait-3000/leetcode-solutions/tree/master/1184-distance-between-bus-stops) |
 | [2784-check-if-array-is-good](https://github.com/Advait-3000/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 ## Binary Search
 |  |

@@ -8,6 +8,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Advait-3000/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Advait-3000/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1184-distance-between-bus-stops](https://github.com/Advait-3000/leetcode-solutions/tree/master/1184-distance-between-bus-stops) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Advait-3000/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2784-check-if-array-is-good](https://github.com/Advait-3000/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 ## Binary Search
 |  |
@@ -27,12 +28,18 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Advait-3000/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Advait-3000/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Hash Table
 |  |
 | ------- |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Advait-3000/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2784-check-if-array-is-good](https://github.com/Advait-3000/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 ## Sorting
 |  |
 | ------- |
 | [2784-check-if-array-is-good](https://github.com/Advait-3000/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
+## Counting
+|  |
+| ------- |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Advait-3000/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 <!---LeetCode Topics End-->

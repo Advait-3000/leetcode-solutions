@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Advait-3000/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Advait-3000/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Advait-3000/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0890-find-and-replace-pattern](https://github.com/Advait-3000/leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
 | [1184-distance-between-bus-stops](https://github.com/Advait-3000/leetcode-solutions/tree/master/1184-distance-between-bus-stops) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Advait-3000/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2540-minimum-common-value](https://github.com/Advait-3000/leetcode-solutions/tree/master/2540-minimum-common-value) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Advait-3000/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0890-find-and-replace-pattern](https://github.com/Advait-3000/leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
 ## Math
 |  |
 | ------- |
@@ -35,6 +37,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0890-find-and-replace-pattern](https://github.com/Advait-3000/leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Advait-3000/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2540-minimum-common-value](https://github.com/Advait-3000/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Advait-3000/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |

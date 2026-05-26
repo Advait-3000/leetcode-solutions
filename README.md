@@ -34,6 +34,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Advait-3000/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0890-find-and-replace-pattern](https://github.com/Advait-3000/leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Advait-3000/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Advait-3000/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Math
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Advait-3000/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Advait-3000/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Advait-3000/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Advait-3000/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Sorting
 |  |
 | ------- |

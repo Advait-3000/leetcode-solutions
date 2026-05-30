@@ -72,6 +72,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Advait-3000/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Advait-3000/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Advait-3000/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Advait-3000/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -89,6 +90,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Advait-3000/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Advait-3000/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/Advait-3000/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Advait-3000/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Advait-3000/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Advait-3000/leetcode-solutions/tree/master/0206-reverse-linked-list) |

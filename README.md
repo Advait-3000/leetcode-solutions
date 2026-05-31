@@ -28,6 +28,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Advait-3000/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Advait-3000/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Advait-3000/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0278-first-bad-version](https://github.com/Advait-3000/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Advait-3000/leetcode-solutions/tree/master/0704-binary-search) |
 | [2540-minimum-common-value](https://github.com/Advait-3000/leetcode-solutions/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
@@ -140,4 +141,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Advait-3000/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Advait-3000/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Advait-3000/leetcode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

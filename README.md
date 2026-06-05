@@ -31,6 +31,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Advait-3000/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Advait-3000/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Advait-3000/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/Advait-3000/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/Advait-3000/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Advait-3000/leetcode-solutions/tree/master/0704-binary-search) |
 | [2540-minimum-common-value](https://github.com/Advait-3000/leetcode-solutions/tree/master/2540-minimum-common-value) |
@@ -97,6 +98,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Advait-3000/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Advait-3000/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Trie
 |  |
@@ -164,6 +166,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Advait-3000/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Advait-3000/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Advait-3000/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Advait-3000/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Advait-3000/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
@@ -185,6 +188,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Advait-3000/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Advait-3000/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Advait-3000/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Advait-3000/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Advait-3000/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 ## Dynamic Programming

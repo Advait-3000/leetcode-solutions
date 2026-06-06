@@ -170,6 +170,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Advait-3000/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Advait-3000/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Advait-3000/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0617-merge-two-binary-trees](https://github.com/Advait-3000/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -177,6 +178,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Advait-3000/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Advait-3000/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Advait-3000/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0617-merge-two-binary-trees](https://github.com/Advait-3000/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -184,6 +186,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Advait-3000/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Advait-3000/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Advait-3000/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0617-merge-two-binary-trees](https://github.com/Advait-3000/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -192,6 +195,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Advait-3000/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Advait-3000/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Advait-3000/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0617-merge-two-binary-trees](https://github.com/Advait-3000/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 ## Dynamic Programming
 |  |
 | ------- |

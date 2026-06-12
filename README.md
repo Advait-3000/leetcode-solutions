@@ -66,6 +66,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Advait-3000/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Advait-3000/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0060-permutation-sequence](https://github.com/Advait-3000/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Advait-3000/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Advait-3000/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Advait-3000/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -141,6 +142,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Advait-3000/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Advait-3000/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0060-permutation-sequence](https://github.com/Advait-3000/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/Advait-3000/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Advait-3000/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Advait-3000/leetcode-solutions/tree/master/0234-palindrome-linked-list) |

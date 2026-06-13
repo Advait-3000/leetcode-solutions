@@ -33,6 +33,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Advait-3000/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Advait-3000/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Advait-3000/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3838-weighted-word-mapping](https://github.com/Advait-3000/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Advait-3000/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Advait-3000/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Advait-3000/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3838-weighted-word-mapping](https://github.com/Advait-3000/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
 | ------- |
@@ -247,6 +249,7 @@
 | ------- |
 | [2043-simple-bank-system](https://github.com/Advait-3000/leetcode-solutions/tree/master/2043-simple-bank-system) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Advait-3000/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3838-weighted-word-mapping](https://github.com/Advait-3000/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Binary Search Tree
 |  |
 | ------- |

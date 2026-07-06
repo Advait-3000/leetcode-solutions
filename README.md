@@ -11,6 +11,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Advait-3000/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Advait-3000/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Advait-3000/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0475-heaters](https://github.com/Advait-3000/leetcode-solutions/tree/master/0475-heaters) |
 | [0704-binary-search](https://github.com/Advait-3000/leetcode-solutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Advait-3000/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Advait-3000/leetcode-solutions/tree/master/0706-design-hashmap) |
@@ -44,6 +45,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Advait-3000/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Advait-3000/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/Advait-3000/leetcode-solutions/tree/master/0278-first-bad-version) |
+| [0475-heaters](https://github.com/Advait-3000/leetcode-solutions/tree/master/0475-heaters) |
 | [0704-binary-search](https://github.com/Advait-3000/leetcode-solutions/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Advait-3000/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2540-minimum-common-value](https://github.com/Advait-3000/leetcode-solutions/tree/master/2540-minimum-common-value) |
@@ -98,6 +100,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0475-heaters](https://github.com/Advait-3000/leetcode-solutions/tree/master/0475-heaters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Advait-3000/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2126-destroying-asteroids](https://github.com/Advait-3000/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Advait-3000/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -116,6 +119,7 @@
 | [0061-rotate-list](https://github.com/Advait-3000/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Advait-3000/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Advait-3000/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0475-heaters](https://github.com/Advait-3000/leetcode-solutions/tree/master/0475-heaters) |
 | [0876-middle-of-the-linked-list](https://github.com/Advait-3000/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Advait-3000/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Advait-3000/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |

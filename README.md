@@ -18,6 +18,7 @@
 | [0706-design-hashmap](https://github.com/Advait-3000/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0890-find-and-replace-pattern](https://github.com/Advait-3000/leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
 | [1184-distance-between-bus-stops](https://github.com/Advait-3000/leetcode-solutions/tree/master/1184-distance-between-bus-stops) |
+| [1331-rank-transform-of-an-array](https://github.com/Advait-3000/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Advait-3000/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Advait-3000/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2043-simple-bank-system](https://github.com/Advait-3000/leetcode-solutions/tree/master/2043-simple-bank-system) |
@@ -91,6 +92,7 @@
 | [0705-design-hashset](https://github.com/Advait-3000/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Advait-3000/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0890-find-and-replace-pattern](https://github.com/Advait-3000/leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
+| [1331-rank-transform-of-an-array](https://github.com/Advait-3000/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Advait-3000/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Advait-3000/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2043-simple-bank-system](https://github.com/Advait-3000/leetcode-solutions/tree/master/2043-simple-bank-system) |
@@ -107,6 +109,7 @@
 |  |
 | ------- |
 | [0475-heaters](https://github.com/Advait-3000/leetcode-solutions/tree/master/0475-heaters) |
+| [1331-rank-transform-of-an-array](https://github.com/Advait-3000/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Advait-3000/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2126-destroying-asteroids](https://github.com/Advait-3000/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Advait-3000/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |

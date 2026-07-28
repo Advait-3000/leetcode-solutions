@@ -79,6 +79,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Advait-3000/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Advait-3000/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Advait-3000/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Advait-3000/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Advait-3000/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Advait-3000/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Math
@@ -130,6 +131,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Advait-3000/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/Advait-3000/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Advait-3000/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Advait-3000/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Advait-3000/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Advait-3000/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Counting
@@ -334,4 +336,8 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Advait-3000/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Advait-3000/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->

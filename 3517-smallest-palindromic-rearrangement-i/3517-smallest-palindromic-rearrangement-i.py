@@ -1,5 +1,7 @@
 class Solution:
     def smallestPalindrome(self, s: str) -> str:
         s=list(s)
-        mid=len(s)//2
-        return "".join(sorted(s[:mid]))+s[mid]+"".join(sorted(s[:mid])[::-1]) if len(s)%2==1 else "".join(sorted(s[:mid]))+"".join(sorted(s[:mid])[::-1])
+        n=len(s)
+        first=s[:n//2]
+        first.sort()
+        return "".join(first)+s[n//2]+"".join(first[::-1]) if n%2==1 else "".join(first)+"".join(first[::-1])

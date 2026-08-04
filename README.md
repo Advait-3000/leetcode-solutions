@@ -106,6 +106,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Advait-3000/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Advait-3000/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Advait-3000/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3765-complete-prime-number](https://github.com/Advait-3000/leetcode-solutions/tree/master/3765-complete-prime-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -303,6 +304,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/Advait-3000/leetcode-solutions/tree/master/1291-sequential-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Advait-3000/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3765-complete-prime-number](https://github.com/Advait-3000/leetcode-solutions/tree/master/3765-complete-prime-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -342,6 +344,7 @@
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Advait-3000/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Advait-3000/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3765-complete-prime-number](https://github.com/Advait-3000/leetcode-solutions/tree/master/3765-complete-prime-number) |
 ## Monotonic Stack
 |  |
 | ------- |

@@ -68,6 +68,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Advait-3000/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Advait-3000/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Advait-3000/leetcode-solutions/tree/master/0148-sort-list) |
 ## String
 |  |
 | ------- |
@@ -134,6 +135,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Advait-3000/leetcode-solutions/tree/master/0148-sort-list) |
 | [0475-heaters](https://github.com/Advait-3000/leetcode-solutions/tree/master/0475-heaters) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Advait-3000/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Advait-3000/leetcode-solutions/tree/master/1300-sum-of-mutated-array-closest-to-target) |
@@ -158,6 +160,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Advait-3000/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Advait-3000/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Advait-3000/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Advait-3000/leetcode-solutions/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/Advait-3000/leetcode-solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Advait-3000/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0475-heaters](https://github.com/Advait-3000/leetcode-solutions/tree/master/0475-heaters) |
@@ -185,6 +188,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Advait-3000/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Advait-3000/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Advait-3000/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Advait-3000/leetcode-solutions/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Advait-3000/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Advait-3000/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Advait-3000/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -364,4 +368,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Advait-3000/leetcode-solutions/tree/master/0877-stone-game) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Advait-3000/leetcode-solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->

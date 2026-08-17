@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Advait-3000/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Advait-3000/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Advait-3000/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0046-permutations](https://github.com/Advait-3000/leetcode-solutions/tree/master/0046-permutations) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Advait-3000/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Advait-3000/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Advait-3000/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -351,6 +352,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Advait-3000/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/Advait-3000/leetcode-solutions/tree/master/0046-permutations) |
 | [0257-binary-tree-paths](https://github.com/Advait-3000/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Rolling Hash
 |  |

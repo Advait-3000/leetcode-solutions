@@ -91,6 +91,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Advait-3000/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Advait-3000/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1556-thousand-separator](https://github.com/Advait-3000/leetcode-solutions/tree/master/1556-thousand-separator) |
+| [1927-sum-game](https://github.com/Advait-3000/leetcode-solutions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Advait-3000/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Advait-3000/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Advait-3000/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -109,6 +110,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Advait-3000/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Advait-3000/leetcode-solutions/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Advait-3000/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1927-sum-game](https://github.com/Advait-3000/leetcode-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Advait-3000/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Advait-3000/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Advait-3000/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -250,6 +252,7 @@
 | [0605-can-place-flowers](https://github.com/Advait-3000/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Advait-3000/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Advait-3000/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1927-sum-game](https://github.com/Advait-3000/leetcode-solutions/tree/master/1927-sum-game) |
 | [2126-destroying-asteroids](https://github.com/Advait-3000/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Advait-3000/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Advait-3000/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -385,6 +388,7 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Advait-3000/leetcode-solutions/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/Advait-3000/leetcode-solutions/tree/master/1927-sum-game) |
 ## Merge Sort
 |  |
 | ------- |

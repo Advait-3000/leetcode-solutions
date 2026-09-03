@@ -57,6 +57,7 @@
 | [3689-maximum-total-subarray-value-i](https://github.com/Advait-3000/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Advait-3000/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3838-weighted-word-mapping](https://github.com/Advait-3000/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Advait-3000/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -126,6 +127,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Advait-3000/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Advait-3000/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3765-complete-prime-number](https://github.com/Advait-3000/leetcode-solutions/tree/master/3765-complete-prime-number) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Advait-3000/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |

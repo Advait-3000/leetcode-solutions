@@ -90,6 +90,7 @@
 | [0043-multiply-strings](https://github.com/Advait-3000/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0257-binary-tree-paths](https://github.com/Advait-3000/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/Advait-3000/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
+| [0415-add-strings](https://github.com/Advait-3000/leetcode-solutions/tree/master/0415-add-strings) |
 | [0890-find-and-replace-pattern](https://github.com/Advait-3000/leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Advait-3000/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Advait-3000/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -114,6 +115,7 @@
 | [0048-rotate-image](https://github.com/Advait-3000/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Advait-3000/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0202-happy-number](https://github.com/Advait-3000/leetcode-solutions/tree/master/0202-happy-number) |
+| [0415-add-strings](https://github.com/Advait-3000/leetcode-solutions/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Advait-3000/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Advait-3000/leetcode-solutions/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Advait-3000/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -369,6 +371,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Advait-3000/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0415-add-strings](https://github.com/Advait-3000/leetcode-solutions/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/Advait-3000/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [2043-simple-bank-system](https://github.com/Advait-3000/leetcode-solutions/tree/master/2043-simple-bank-system) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Advait-3000/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |

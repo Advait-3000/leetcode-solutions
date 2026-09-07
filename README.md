@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Advait-3000/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/Advait-3000/leetcode-solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Advait-3000/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0056-merge-intervals](https://github.com/Advait-3000/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Advait-3000/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Advait-3000/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Advait-3000/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -161,6 +162,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Advait-3000/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Advait-3000/leetcode-solutions/tree/master/0148-sort-list) |
 | [0475-heaters](https://github.com/Advait-3000/leetcode-solutions/tree/master/0475-heaters) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Advait-3000/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -428,4 +430,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Advait-3000/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Advait-3000/leetcode-solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->

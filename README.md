@@ -132,6 +132,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Advait-3000/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Advait-3000/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3765-complete-prime-number](https://github.com/Advait-3000/leetcode-solutions/tree/master/3765-complete-prime-number) |
+| [3871-count-commas-in-range-ii](https://github.com/Advait-3000/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Advait-3000/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |

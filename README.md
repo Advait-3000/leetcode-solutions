@@ -29,6 +29,7 @@
 | [0706-design-hashmap](https://github.com/Advait-3000/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0877-stone-game](https://github.com/Advait-3000/leetcode-solutions/tree/master/0877-stone-game) |
 | [0890-find-and-replace-pattern](https://github.com/Advait-3000/leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Advait-3000/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1184-distance-between-bus-stops](https://github.com/Advait-3000/leetcode-solutions/tree/master/1184-distance-between-bus-stops) |
 | [1260-shift-2d-grid](https://github.com/Advait-3000/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Advait-3000/leetcode-solutions/tree/master/1300-sum-of-mutated-array-closest-to-target) |
@@ -170,6 +171,7 @@
 | [0148-sort-list](https://github.com/Advait-3000/leetcode-solutions/tree/master/0148-sort-list) |
 | [0475-heaters](https://github.com/Advait-3000/leetcode-solutions/tree/master/0475-heaters) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Advait-3000/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Advait-3000/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Advait-3000/leetcode-solutions/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1331-rank-transform-of-an-array](https://github.com/Advait-3000/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Advait-3000/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -292,6 +294,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Advait-3000/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Advait-3000/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Advait-3000/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Interactive
 |  |
 | ------- |
@@ -383,6 +386,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Advait-3000/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/Advait-3000/leetcode-solutions/tree/master/0415-add-strings) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Advait-3000/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1260-shift-2d-grid](https://github.com/Advait-3000/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [2043-simple-bank-system](https://github.com/Advait-3000/leetcode-solutions/tree/master/2043-simple-bank-system) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Advait-3000/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |

@@ -122,6 +122,7 @@
 | [0202-happy-number](https://github.com/Advait-3000/leetcode-solutions/tree/master/0202-happy-number) |
 | [0415-add-strings](https://github.com/Advait-3000/leetcode-solutions/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Advait-3000/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Advait-3000/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Advait-3000/leetcode-solutions/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Advait-3000/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Advait-3000/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -445,4 +446,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Advait-3000/leetcode-solutions/tree/master/0056-merge-intervals) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Advait-3000/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->

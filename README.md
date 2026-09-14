@@ -120,6 +120,7 @@
 | [0048-rotate-image](https://github.com/Advait-3000/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Advait-3000/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0202-happy-number](https://github.com/Advait-3000/leetcode-solutions/tree/master/0202-happy-number) |
+| [0223-rectangle-area](https://github.com/Advait-3000/leetcode-solutions/tree/master/0223-rectangle-area) |
 | [0415-add-strings](https://github.com/Advait-3000/leetcode-solutions/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Advait-3000/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Advait-3000/leetcode-solutions/tree/master/0836-rectangle-overlap) |
@@ -449,5 +450,6 @@
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Advait-3000/leetcode-solutions/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/Advait-3000/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->

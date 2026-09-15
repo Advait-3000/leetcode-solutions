@@ -21,6 +21,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Advait-3000/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Advait-3000/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/Advait-3000/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Advait-3000/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0475-heaters](https://github.com/Advait-3000/leetcode-solutions/tree/master/0475-heaters) |
 | [0605-can-place-flowers](https://github.com/Advait-3000/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Advait-3000/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -121,6 +122,7 @@
 | [0060-permutation-sequence](https://github.com/Advait-3000/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0202-happy-number](https://github.com/Advait-3000/leetcode-solutions/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/Advait-3000/leetcode-solutions/tree/master/0223-rectangle-area) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Advait-3000/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0415-add-strings](https://github.com/Advait-3000/leetcode-solutions/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Advait-3000/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Advait-3000/leetcode-solutions/tree/master/0836-rectangle-overlap) |
@@ -146,6 +148,7 @@
 | [0141-linked-list-cycle](https://github.com/Advait-3000/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Advait-3000/leetcode-solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Advait-3000/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Advait-3000/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0705-design-hashset](https://github.com/Advait-3000/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Advait-3000/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0890-find-and-replace-pattern](https://github.com/Advait-3000/leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
@@ -253,6 +256,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Advait-3000/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Advait-3000/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Advait-3000/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0705-design-hashset](https://github.com/Advait-3000/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Advait-3000/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [2043-simple-bank-system](https://github.com/Advait-3000/leetcode-solutions/tree/master/2043-simple-bank-system) |
@@ -452,4 +456,8 @@
 | ------- |
 | [0223-rectangle-area](https://github.com/Advait-3000/leetcode-solutions/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/Advait-3000/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Advait-3000/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->

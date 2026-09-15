@@ -120,6 +120,7 @@
 | [0043-multiply-strings](https://github.com/Advait-3000/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Advait-3000/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Advait-3000/leetcode-solutions/tree/master/0060-permutation-sequence) |
+| [0070-climbing-stairs](https://github.com/Advait-3000/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Advait-3000/leetcode-solutions/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/Advait-3000/leetcode-solutions/tree/master/0223-rectangle-area) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Advait-3000/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -361,6 +362,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Advait-3000/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/Advait-3000/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Advait-3000/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Advait-3000/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0877-stone-game](https://github.com/Advait-3000/leetcode-solutions/tree/master/0877-stone-game) |
@@ -465,5 +467,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Advait-3000/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Advait-3000/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->

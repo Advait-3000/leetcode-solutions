@@ -28,6 +28,7 @@
 | [0704-binary-search](https://github.com/Advait-3000/leetcode-solutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Advait-3000/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Advait-3000/leetcode-solutions/tree/master/0706-design-hashmap) |
+| [0746-min-cost-climbing-stairs](https://github.com/Advait-3000/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Advait-3000/leetcode-solutions/tree/master/0877-stone-game) |
 | [0890-find-and-replace-pattern](https://github.com/Advait-3000/leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Advait-3000/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -367,6 +368,7 @@
 | [0070-climbing-stairs](https://github.com/Advait-3000/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Advait-3000/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Advait-3000/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0746-min-cost-climbing-stairs](https://github.com/Advait-3000/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Advait-3000/leetcode-solutions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Advait-3000/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Advait-3000/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |

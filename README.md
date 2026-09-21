@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Advait-3000/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/Advait-3000/leetcode-solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Advait-3000/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/Advait-3000/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Advait-3000/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Advait-3000/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Advait-3000/leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -285,6 +286,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Advait-3000/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Advait-3000/leetcode-solutions/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/Advait-3000/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/Advait-3000/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Advait-3000/leetcode-solutions/tree/master/0605-can-place-flowers) |
@@ -365,6 +367,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Advait-3000/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/Advait-3000/leetcode-solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Advait-3000/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Advait-3000/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Advait-3000/leetcode-solutions/tree/master/0118-pascals-triangle) |

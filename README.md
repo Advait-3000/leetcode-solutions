@@ -41,6 +41,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Advait-3000/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Advait-3000/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Advait-3000/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Advait-3000/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Advait-3000/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Advait-3000/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2043-simple-bank-system](https://github.com/Advait-3000/leetcode-solutions/tree/master/2043-simple-bank-system) |
@@ -109,6 +110,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Advait-3000/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1556-thousand-separator](https://github.com/Advait-3000/leetcode-solutions/tree/master/1556-thousand-separator) |
 | [1668-maximum-repeating-substring](https://github.com/Advait-3000/leetcode-solutions/tree/master/1668-maximum-repeating-substring) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Advait-3000/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Advait-3000/leetcode-solutions/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Advait-3000/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Advait-3000/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -167,6 +169,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Advait-3000/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Advait-3000/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Advait-3000/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Advait-3000/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2043-simple-bank-system](https://github.com/Advait-3000/leetcode-solutions/tree/master/2043-simple-bank-system) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Advait-3000/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Advait-3000/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |

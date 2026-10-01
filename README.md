@@ -100,6 +100,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Advait-3000/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Advait-3000/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/Advait-3000/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0071-simplify-path](https://github.com/Advait-3000/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/Advait-3000/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/Advait-3000/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/Advait-3000/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
@@ -288,6 +289,7 @@
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Advait-3000/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Advait-3000/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Advait-3000/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Advait-3000/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |

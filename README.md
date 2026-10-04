@@ -107,6 +107,7 @@
 | [0257-binary-tree-paths](https://github.com/Advait-3000/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/Advait-3000/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0415-add-strings](https://github.com/Advait-3000/leetcode-solutions/tree/master/0415-add-strings) |
+| [0678-valid-parenthesis-string](https://github.com/Advait-3000/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0890-find-and-replace-pattern](https://github.com/Advait-3000/leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Advait-3000/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Advait-3000/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -298,6 +299,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Advait-3000/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Advait-3000/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Advait-3000/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
+| [0678-valid-parenthesis-string](https://github.com/Advait-3000/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Advait-3000/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Advait-3000/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Advait-3000/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -311,6 +313,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Advait-3000/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/Advait-3000/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Advait-3000/leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/Advait-3000/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Advait-3000/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Advait-3000/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1927-sum-game](https://github.com/Advait-3000/leetcode-solutions/tree/master/1927-sum-game) |
@@ -396,6 +399,7 @@
 | [0115-distinct-subsequences](https://github.com/Advait-3000/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Advait-3000/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Advait-3000/leetcode-solutions/tree/master/0120-triangle) |
+| [0678-valid-parenthesis-string](https://github.com/Advait-3000/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Advait-3000/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Advait-3000/leetcode-solutions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Advait-3000/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -521,6 +525,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Advait-3000/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Advait-3000/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Advait-3000/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Advait-3000/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Advait-3000/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->

@@ -105,6 +105,7 @@
 | [0071-simplify-path](https://github.com/Advait-3000/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/Advait-3000/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/Advait-3000/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Advait-3000/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Advait-3000/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0415-add-strings](https://github.com/Advait-3000/leetcode-solutions/tree/master/0415-add-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Advait-3000/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
@@ -372,6 +373,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Advait-3000/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Advait-3000/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Advait-3000/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Advait-3000/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0404-sum-of-left-leaves](https://github.com/Advait-3000/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/Advait-3000/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
@@ -459,6 +461,7 @@
 | [0022-generate-parentheses](https://github.com/Advait-3000/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Advait-3000/leetcode-solutions/tree/master/0046-permutations) |
 | [0257-binary-tree-paths](https://github.com/Advait-3000/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Advait-3000/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Rolling Hash
 |  |
 | ------- |

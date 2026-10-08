@@ -31,6 +31,7 @@
 | [0704-binary-search](https://github.com/Advait-3000/leetcode-solutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Advait-3000/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Advait-3000/leetcode-solutions/tree/master/0706-design-hashmap) |
+| [0739-daily-temperatures](https://github.com/Advait-3000/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Advait-3000/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Advait-3000/leetcode-solutions/tree/master/0877-stone-game) |
 | [0890-find-and-replace-pattern](https://github.com/Advait-3000/leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
@@ -302,6 +303,7 @@
 | [0234-palindrome-linked-list](https://github.com/Advait-3000/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Advait-3000/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/Advait-3000/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/Advait-3000/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/Advait-3000/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Advait-3000/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Advait-3000/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -476,6 +478,7 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Advait-3000/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/Advait-3000/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Advait-3000/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
 |  |

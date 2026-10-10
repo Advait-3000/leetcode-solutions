@@ -52,6 +52,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Advait-3000/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Advait-3000/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Advait-3000/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Advait-3000/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Advait-3000/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2540-minimum-common-value](https://github.com/Advait-3000/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/Advait-3000/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -85,6 +86,7 @@
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Advait-3000/leetcode-solutions/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Advait-3000/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Advait-3000/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Advait-3000/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/Advait-3000/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Advait-3000/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Advait-3000/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -209,6 +211,7 @@
 | [2126-destroying-asteroids](https://github.com/Advait-3000/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Advait-3000/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Advait-3000/leetcode-solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Advait-3000/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2784-check-if-array-is-good](https://github.com/Advait-3000/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Advait-3000/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Advait-3000/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -328,6 +331,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Advait-3000/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Advait-3000/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Advait-3000/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Advait-3000/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Advait-3000/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Advait-3000/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Advait-3000/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -541,4 +545,8 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Advait-3000/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Advait-3000/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Advait-3000/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Advait-3000/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->

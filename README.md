@@ -47,6 +47,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Advait-3000/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Advait-3000/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2043-simple-bank-system](https://github.com/Advait-3000/leetcode-solutions/tree/master/2043-simple-bank-system) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Advait-3000/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Advait-3000/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Advait-3000/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Advait-3000/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -359,6 +360,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Advait-3000/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Advait-3000/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Advait-3000/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Advait-3000/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Interactive
 |  |
 | ------- |
@@ -471,6 +473,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/Advait-3000/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1260-shift-2d-grid](https://github.com/Advait-3000/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [2043-simple-bank-system](https://github.com/Advait-3000/leetcode-solutions/tree/master/2043-simple-bank-system) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Advait-3000/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Advait-3000/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Advait-3000/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3498-reverse-degree-of-a-string](https://github.com/Advait-3000/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |

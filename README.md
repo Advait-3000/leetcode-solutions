@@ -78,6 +78,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Advait-3000/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3838-weighted-word-mapping](https://github.com/Advait-3000/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Advait-3000/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Advait-3000/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Advait-3000/leetcode-solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
@@ -268,6 +269,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Advait-3000/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Advait-3000/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Advait-3000/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Advait-3000/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Trie
 |  |
 | ------- |
@@ -443,6 +445,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Advait-3000/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1668-maximum-repeating-substring](https://github.com/Advait-3000/leetcode-solutions/tree/master/1668-maximum-repeating-substring) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Advait-3000/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Advait-3000/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Enumeration
 |  |
 | ------- |
@@ -518,6 +521,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Advait-3000/leetcode-solutions/tree/master/0048-rotate-image) |
 | [1260-shift-2d-grid](https://github.com/Advait-3000/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Advait-3000/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Counting Sort
 |  |
 | ------- |

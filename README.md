@@ -70,6 +70,7 @@
 | [3075-maximize-happiness-of-selected-children](https://github.com/Advait-3000/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Advait-3000/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Advait-3000/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Advait-3000/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Advait-3000/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Advait-3000/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Advait-3000/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -176,6 +177,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Advait-3000/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Advait-3000/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Advait-3000/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Advait-3000/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Advait-3000/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Advait-3000/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Advait-3000/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -457,6 +459,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Advait-3000/leetcode-solutions/tree/master/1291-sequential-digits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Advait-3000/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Advait-3000/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Advait-3000/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Advait-3000/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -482,6 +485,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Advait-3000/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Advait-3000/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Advait-3000/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Advait-3000/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Simulation
 |  |
 | ------- |
@@ -518,6 +522,7 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Advait-3000/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Advait-3000/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Advait-3000/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3765-complete-prime-number](https://github.com/Advait-3000/leetcode-solutions/tree/master/3765-complete-prime-number) |
 ## Monotonic Stack

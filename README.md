@@ -636,4 +636,8 @@
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/Advait-3000/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Advait-3000/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
